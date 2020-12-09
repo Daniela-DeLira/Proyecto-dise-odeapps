@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsepulveda91/gestion-biblioteca.git"
+    "url": "git+https://github.com/Daniela-DeLira/Proyecto-dise-odeapps"
   },
   "keywords": [
     "biblioteca",
@@ -18,9 +18,9 @@
   "author": "Daniela De Lira",
   "license": "LIC",
   "bugs": {
-    "url": "https://github.com/jsepulveda91/gestion-biblioteca/issues"
+    "url": "https://github.com/Daniela-DeLira/Proyecto-dise-odeapps/issues"
   },
-  "homepage": "https://github.com/jsepulveda91/gestion-biblioteca#readme",
+  "homepage": "https://github.com/Daniela-DeLira/Proyecto-dise-odeapps/tree/master#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
